@@ -1,9 +1,63 @@
-# Pandas with Matplotlib & Seaborn Data Visualisation
+# Employee Data Analysis Report – Jupyter Notebook + Interactive HTML
 
-Since Github does not embed files over 1MB, you will have to download and open the html file manually to view the interactive version of the file.
+This repository features an end-to-end employee data analysis project, created using Python and Jupyter Notebook. It includes an interactive HTML version of the report for easy viewing and sharing without the need to run code.
 
-The ipynb file is the file containing all the analysis and various data transformation and visualisation techniques used.
+## 📌 Project Objective
 
-It is analysing a demo data of employees and product names and salary, using Pandas to manipulate data and then using Seaborn and Matplotlib to visualise the data.
+To analyze employee data and uncover meaningful insights related to workforce demographics, department performance, attrition trends, and compensation, using clean visualizations and storytelling.
 
-The final step of the process transforms the data into a html file which can opened anywhere to make the data more interactive and easier to use even for stakeholders who do not wish to go into too much into the specifics and want the final report.
+## 📁 Repository Contents
+
+    Emp_Report.ipynb: The full analysis in Jupyter Notebook format.
+
+    Emp_Report.html: An interactive HTML version of the notebook for easy viewing in a browser.
+
+    (Optional) requirements.txt: List of Python dependencies (if applicable).
+
+## 🔍 Key Insights Covered
+
+    Employee demographics by age, gender, department, and role
+
+    Headcount trends across departments
+
+    Attrition and turnover analysis
+
+    Salary and compensation trends
+
+    Tenure and experience distribution
+
+## 🛠️ Tools & Libraries Used
+
+    Python
+
+    Pandas – Data manipulation
+
+    Matplotlib / Seaborn / Plotly – Data visualization
+
+    Jupyter Notebook – For interactive analysis
+
+    nbconvert – For exporting HTML report
+
+## 🌐 How to View
+### 💻 View the Notebook:
+
+Open Emp_Report.ipynb using Jupyter Notebook or JupyterLab to explore the code and visuals.
+
+### 🌍 View the Interactive Report:
+
+Open Emp_Report.html in any web browser to explore the same analysis without running any code.
+
+    No Python environment needed for viewing the HTML report.
+
+## 🚀 How to Run (Optional)
+
+    Open the notebook in Jupyter
+
+    Run all cells to view live analysis and generate your own insights
+
+## 📬 Contact
+
+For feedback, questions, or collaboration opportunities:
+
+Junaid Ahmed Baig
+[LinkedIn](https://www.linkedin.com/in/junaid-baig-57b390215/) 
