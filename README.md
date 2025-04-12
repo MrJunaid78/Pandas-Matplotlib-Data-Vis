@@ -1,5 +1,7 @@
 # Pandas with Matplotlib & Seaborn Data Visualisation
 
+Since Github does not embed files over 1MB, you will have to download and open the html file manually to view the interactive version of the file.
+
 The ipynb file is the file containing all the analysis and various data transformation and visualisation techniques used.
 
 It is analysing a demo data of employees and product names and salary, using Pandas to manipulate data and then using Seaborn and Matplotlib to visualise the data.
